@@ -1,0 +1,11 @@
+.env
+.pytest_cache/
+
+__pycache__
+*.pyc
+.git
+postgres_data
+
+routers/
+auth.py
+schemas.py
