@@ -30,21 +30,6 @@ Tech Stack:
 - Pytest
 - Google Gemini API
 
-Project Structure:
-.
-├── alembic/
-├── main.py
-├── models.py
-├── database.py
-├── Dockerfile
-├── docker-compose.yml
-├── requirements.txt
-├── .env.example
-└── README.md
-└── images
-    └── swagger.png
-    └── swagger2.png
-
 
 Requirements:
 Python 3.12+
